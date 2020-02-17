@@ -1,0 +1,39 @@
+{
+	"LocalInfo":{
+		"ReadOnly": "false",
+		"MainPath": "config/global.json",
+		"GeneralLogsF": "logs/error.log"
+	},
+	"ServerConfig":{
+		"DateF": "Y-M-D",
+		"TimeF": "H:m:i",
+		"LogsFPath": "logs/server.log",
+		"Token": "",
+		"AutoStart": "false"
+	},
+	"ClientConfig":{
+		"Name": "",
+		"Port": 1983,
+		"DateF": "Y-M-D",
+		"TimeF": "H:m:i",
+		"AccountKey": "null",
+		"LogsFPath": "logs/client.log",
+		"AccountType": "null"
+	},
+	"AppConfig":{
+		"Name": "",
+		"Port": 1987,
+		"RootMode": "false",
+		"Token": "null",
+		"AutoInsertTK": "false",
+		"DateF": "Y-M-D",
+		"TimeF": "H:m:i",
+		"LogsFPath": "logs/app.log"
+	},
+	"ClIConfig": {
+		"UseLogin": "false",
+		"Username": "",
+		"Passwd": "",
+		"LogsFPath": "logs/error.log"
+	}
+}
